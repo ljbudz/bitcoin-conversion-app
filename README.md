@@ -6,3 +6,10 @@ A simple iOS app that allows the user to perform a 1:1 price conversion between 
 <img src="Screenshots/bar_graph.png" height="500px" width="auto">
 <img src="Screenshots/line_graph.png" height="500px" width="auto">
 </p>
+
+<style>
+img {
+margin-left: 50px;
+margin-right: 50px;
+}
+</style>
